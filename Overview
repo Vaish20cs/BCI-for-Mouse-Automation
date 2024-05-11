@@ -1,0 +1,6 @@
+Project revolutionizes human-computer interaction by integrating EEG signals for eye movement control and accelerometer sensors for head movement tracking.
+This innovative approach offers users a natural and intuitive method for mouse automation, enhancing accessibility for individuals with physical disabilities or limitations.
+By relying on brain signals, eye movements, and head movements, our system provides an alternative input method that empowers users to interact with technology effortlessly.
+BCI system design integrating SSVEP (Steady State Visually Evoked Potential) signals for eye-tracking with accelerometer data for head movement detection.
+Offers precise cursor control by combining eye-tracking and head movement detection.
+Provides users with a comprehensive and intuitive means of interacting with technology.
