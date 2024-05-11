@@ -1,0 +1,8 @@
+Total no. of Participants : 4
+SSVEP Database from 4 participants performing a 4-target selection task.
+All datasets were collected on channels Fp1, Fp2 and A2 according to the 10–20 EEG electrode placement standard.
+Accelerometer data from 4 participants performing 4 tasks (Left, Right, Rear and Front.
+FP1 and FP2 are EEG electrode placements located on the frontal pole of the head.
+They are positioned on the scalp above the left (FP1) and right (FP2) prefrontal cortex, respectively.
+A2 is an EEG electrode placement typically positioned on the outer side of the right earlobe.
+It serves as a reference electrode, providing a baseline signal against which other electrodes' signals are compared.
